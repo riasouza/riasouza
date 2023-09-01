@@ -36,9 +36,11 @@ if contratado == True:
 else:
     print("Continuarei tentando")
 ```
+
+![snake gif](https://github.com/riasouza/riasouza/blob/output/github-contribution-grid-snake.svg)
+
 </div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>
 
-![snake gif](https://github.com/riasouza/riasouza/blob/output/github-contribution-grid-snake.svg)
