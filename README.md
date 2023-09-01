@@ -36,9 +36,6 @@ if contratado == True:
 else:
     print("Continuarei tentando")
 ```
-
-![snake gif](https://github.com/riasouza/riasouza/blob/output/github-contribution-grid-snake.svg)
-
 </div>
   
 
