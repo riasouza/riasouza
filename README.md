@@ -28,14 +28,6 @@
 ### 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ri%C3%A3-souza-710819261/)
 
-
-
-```python
-if contratado == True:
-    print("Feliz da vida!!!")
-else:
-    print("Continuarei tentando")
-```
 <div align="center">
 
   ![Snake animation](https://github.com/riasouza/riasouza/blob/output/github-contribution-grid-snake.svg)
